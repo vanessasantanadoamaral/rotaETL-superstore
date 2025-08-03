@@ -146,7 +146,7 @@ O fluxo determinado para atualização é o seguinte:
 
 Assim, a ordem lógica da atualização é fundamental para garantir que todas as dependências sejam respeitadas, evitando inconsistências ou erros no modelo dimensional.
 
-## Tratamento de Slowly Changing Dimensions (SCD)
+#### Tratamento de Slowly Changing Dimensions (SCD)
 
 Durante o desenvolvimento deste projeto, foi considerado a importância do tratamento de Slowly Changing Dimensions (SCD) para garantir que alterações nos dados dimensionais fossem gerenciadas adequadamente ao longo do tempo.
 
