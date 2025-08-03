@@ -168,3 +168,8 @@ Assim, o tratamento de SCD está alinhado com a simplicidade, performance e obje
 - Otimizar consultas e estrutura das tabelas para garantir boa performance com o crescimento dos dados.
 - Estabelecer governança de dados para segurança, privacidade e compliance.
  </details>
+
+ <details>
+ <summary><strong style="font-size: 16px;">Vídeo</strong></summary>
+[Clique para assistir](https://www.loom.com/share/71b493d7377d4efabdd43db59f7d2d96?sid=be8efb41-ebf6-407b-9f8f-ff3b77fbd7ec)
+ </details>
